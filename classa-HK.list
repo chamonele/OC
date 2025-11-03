@@ -2,7 +2,6 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,kiteworks.ap.mattel.com
-DOMAIN-SUFFIX,windchill.mattel.com
 
 
 # 域名关键字匹配
