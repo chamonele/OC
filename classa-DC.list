@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,setssl.com
 DOMAIN-SUFFIX,windchill.mattel.com
 DOMAIN-SUFFIX,fromsmash.com
 DOMAIN-SUFFIX,fromsmash.co
+IP-CIDR,100.64.0.0/10,no-resolve
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
