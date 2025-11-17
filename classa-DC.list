@@ -8,7 +8,11 @@ DOMAIN-SUFFIX,setssl.com
 DOMAIN-SUFFIX,windchill.mattel.com
 DOMAIN-SUFFIX,fromsmash.com
 DOMAIN-SUFFIX,fromsmash.co
-
+DOMAIN,saturn2.setssl.com
+DST-PORT,995
+DST-PORT,110
+DST-PORT,25
+DST-PORT,1025
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
 
